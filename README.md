@@ -14,7 +14,7 @@
      `chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/advanced-settings.html`  
    - Find `userResourcesLocation`.  
    - Change it from `unset` to:  
-     `https://raw.githubusercontent.com/widecat36/uBlobeBM/refs/heads/main/blob.js`
+     `https://raw.githubusercontent.com/widecat36/uBlobeBM.github.io/refs/heads/main/blob.js`
 
 2. **Modifying Custom Filters**  
    - Go to:  
